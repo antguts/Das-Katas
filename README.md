@@ -1,2 +1,4 @@
 # Das-Katas
-Contains various codeWars katas that I complete. Stored here for reference. 
+Contains various codeWars katas that I complete. 
+
+Stored here for reference. 
