@@ -29,7 +29,7 @@ function christmasTree(height) {
 }
 ```
 
-# //Problem 2
+# Problem 2
 
 Task
 Given two cells on the standard chess board, determine whether they have the same color or not.
@@ -73,7 +73,7 @@ function chessBoardCellColor(cell1, cell2) {
 
 
 
-# //Problem 3
+# Problem 3
 
 You are developing an image hosting website.
 You have to create a function for generating random and unique image filenames.
